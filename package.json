@@ -1,0 +1,29 @@
+{
+  "name": "ReactJS-Browserify-Grunt-Jasmin",
+  "version": "0.0.1",
+  "description": "Initialized project with ReactJS, Browserify, Grunt, Jasmin",
+  "devDependencies": {
+    "grunt": "0.4.x",
+    "grunt-contrib-copy": "0.4.x",
+    "grunt-jsxhint": "~0.0.2",
+    "grunt-contrib-clean": "0.5.x",
+    "grunt-contrib-watch": "0.5.x",
+    "grunt-contrib-connect": "0.3.x",
+    "grunt-sass": "0.6.0",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-jasmine": "latest",
+    "jasmine-ajax": "git+https://git@github.com/pivotal/jasmine-ajax.git",
+    "grunt-connect-proxy": "~0.1.6",
+    "react": "~0.10.0",
+    "lodash": "~2.4.1",
+    "jquery": "latest",
+    "grunt-react": "~0.8.x",
+    "grunt-browserify": "~2.1.0",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-extend": "~0.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:xfsnowind/ReactJS-Browserify-Grunt-Jasmin.git"
+  }
+}

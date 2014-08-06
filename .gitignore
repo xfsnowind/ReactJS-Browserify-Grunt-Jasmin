@@ -1,0 +1,15 @@
+/.idea
+/*.iml
+/target
+.classpath
+.project
+.settings
+.pmd
+build
+node_modules/
+deploy/main.js
+deploy/main.css
+deploy/images
+test/**/*.js
+test/*.js
+npm-debug.log
